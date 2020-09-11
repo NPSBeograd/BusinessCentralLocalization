@@ -1,0 +1,2 @@
+# BusinessCentralLocalization
+Business Central Localization 
